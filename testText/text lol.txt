@@ -1,0 +1,8 @@
+void main [] blahbs;
+{
+	int lolparameter;
+
+	if (condition == true)
+	text.variableText(lolparameter);
+
+}
